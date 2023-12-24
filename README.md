@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
+## NAME : AVINASH T
+
+## REG NO : 212223230026
 
 # Aim : 
 
